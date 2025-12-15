@@ -4,6 +4,9 @@ Ce module fournit des fonctions d'aide pour calculer le remplissage des
 orbitales électroniques et définit un petit ensemble d'instances `Atom`
 utilisées dans le projet.
 """
+
+# pylint: disable=invalid-name
+
 Sous_couche = [
     (1, 0),  # 1s
     (2, 0),  # 2s
