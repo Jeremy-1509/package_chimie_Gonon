@@ -4,10 +4,12 @@ Package Python permettant de modéliser des **atomes**, des **molécules** et de
 Ce projet s’inscrit dans le cadre du **Projet Python ISUP – Parcours ISDS**.
 
 ## Objectif du projet
+
 L’objectif de ce projet est de mettre en pratique les concepts de **programmation orientée objet**, de **structuration d’un package Python** et de **qualité de code**.  
 Le package propose une modélisation simple de concepts chimiques sans nécessiter de connaissances approfondies en chimie.
 
 ## Fonctionnalités
+
 - Représentation d’**atomes** via une classe `Atom` (symbole, nombre d’électrons, masse, configuration électronique)
 - Représentation de **molécules** via une classe `Molecule` à partir d’une formule brute
 - Calcul automatique de la **masse molaire** d’une molécule
@@ -49,7 +51,7 @@ Le package est organisé autour des modules suivants :
 •⁠  ⁠Fonctions utilitaires liées aux réactions chimiques
 •⁠  ⁠Aide à la manipulation et à l’analyse des équations chimiques
 
-## 🧪 Tests
+## Tests
 
 Le dossier `tests/` contient des tests unitaires permettant de vérifier le bon fonctionnement des classes et fonctions du package.
 
