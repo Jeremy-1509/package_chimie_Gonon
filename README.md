@@ -37,17 +37,17 @@ package_chimie_Gonon/
 
 Le package est organisé autour des modules suivants :
 
-### 🔹 ⁠ atom.py ⁠
+### ⚛️ ⁠ atom.py ⁠
 •⁠  ⁠Représentation d’un atome chimique
 •⁠  ⁠Gestion du symbole chimique et de la masse atomique
 •⁠  ⁠Validation des éléments
 
-### 🔹 ⁠ mol.py ⁠
+### 🧬 mol.py ⁠
 •⁠  ⁠Représentation d’une molécule à partir d’une formule brute (ex: ⁠ H2O ⁠, ⁠ CO2 ⁠)
 •⁠  ⁠Décomposition de la molécule en atomes
 •⁠  ⁠Calcul de la masse moléculaire
 
-### 🔹 ⁠ reaction_utils.py ⁠
+### 🧪⁠ reaction_utils.py ⁠
 •⁠  ⁠Fonctions utilitaires liées aux réactions chimiques
 •⁠  ⁠Aide à la manipulation et à l’analyse des équations chimiques
 
