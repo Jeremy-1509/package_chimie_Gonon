@@ -53,15 +53,15 @@ Le package est organisé autour des modules suivants :
 
 ## Tests
 
-Le dossier `tests/` contient des tests unitaires permettant de vérifier le bon fonctionnement des classes et fonctions du package.
+Le dossier `tests/` contient des tests permettant de vérifier le bon fonctionnement du package.
 
-Pour exécuter les tests, assurez-vous d’avoir `pytest` installé, puis lance la commande suivante à la racine du projet :
+Pour exécuter les tests, assurez-vous d’avoir `pytest` installé, puis lancez la commande suivante à la racine du projet :
 
 ```bash
 pytest tests
 ```
 
-## 📥 Installation
+## Installation
 Cloner le dépôt puis installer le package en mode développement :
 ```bash
 git clone https://github.com/Jeremy-1509/package_chimie_Gonon
