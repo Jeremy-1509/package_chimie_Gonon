@@ -1,7 +1,6 @@
 # package_chimie_Gonon
 
-Package Python permettant de modéliser des **atomes**, des **molécules** et des **réactions chimiques simples** à l’aide de la programmation orientée objet.  
-Ce projet s’inscrit dans le cadre du **Projet Python ISUP – Parcours SCDI**.
+Package Python permettant de modéliser des **atomes**, des **molécules** et des **réactions chimiques simples** à l’aide de programme python. 
 
 ## Objectif du projet
 
